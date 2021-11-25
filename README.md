@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 ### Contact
 - :email: reach me at: <zwenlong519@163.com>
 - :house: reach me at: 
-- :   QQ: reach me at: 519752185
+- :QQ: reach me at: 519752185
 ### On Github
 ![Dendoink's github stats](https://github-readme-stats.vercel.app/api?username=zwlbook&show_icons=true&theme=tokyonight&count_private=true)
